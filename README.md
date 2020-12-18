@@ -12,6 +12,7 @@
 ### Summary
 * Nurses of the PokeCenter calculates the most cost-efficient medication for the pokemon and adminster that treatment.
 * Any admitted pokemon has randomly generate stat values using calculations within PokeCenter API logic. This logic will consume the PokeAPI data and manipulate this data for the PokeCenter API.
+* **Three User Types**: Admin, Nurse, Trainer
 
 #### Trainer User Stories 
 - A Trainer can login.
@@ -51,5 +52,3 @@
 * The API follows REST by making HTTP requests between client and server using Angular services and interceptors.
 * The middle tier follows a front controller, layered architecture to achieve efficient Agile development.
 * The application implements log4j for appropriate logging. 
-
-**Three User Types**: Admin, Nurse, Trainer
