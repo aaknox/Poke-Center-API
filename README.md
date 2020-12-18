@@ -52,5 +52,4 @@
 * The middle tier follows a front controller, layered architecture to achieve efficient Agile development.
 * The application implements log4j for appropriate logging. 
 
-**User Types**
-Three User types: Admin, Nurse, Trainer
+**Three User Types**: Admin, Nurse, Trainer
